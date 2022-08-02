@@ -5,6 +5,10 @@ which are given to the project, we can add text and make several changes like ma
 or to the upper case this site will also give the info about how many characters are there and as will tell you estimated time to read the given text, this site will 
 also show you the preview of your written text.
 
+# Screenshots
+![UI](/src/components/Screenshot%202022-08-02%20093037.jpg)
+![UI](/src/components/Screenshot%202022-08-02%20093107.jpg)
+
 
 # Getting Started with Create React App
 
