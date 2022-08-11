@@ -17,17 +17,18 @@ export default function About(props) {
             : props.mode === "primary"
             ? "#042743"
             : "white",
-            color:  props.mode === "dark"
-                    ? "#dbe8e5"
-                    : props.mode === "info"
-                    ?"white"
-                    : props.mode === "danger"
-                    ? "#61ecf1"
-                    : props.mode === "warning"
-                    ? "#3636f3"
-                    : props.mode === "primary"
-                    ? "#fbd8bc"
-                    : "black",
+        color:
+          props.mode === "dark"
+            ? "#dbe8e5"
+            : props.mode === "info"
+            ? "white"
+            : props.mode === "danger"
+            ? "#61ecf1"
+            : props.mode === "warning"
+            ? "#3636f3"
+            : props.mode === "primary"
+            ? "#fbd8bc"
+            : "black",
       }}
     >
       <h1>About Us</h1>
@@ -54,10 +55,11 @@ export default function About(props) {
                     : props.mode === "primary"
                     ? "#042743"
                     : "white",
-                    color:  props.mode === "dark"
+                color:
+                  props.mode === "dark"
                     ? "#dbe8e5"
                     : props.mode === "info"
-                    ?"white"
+                    ? "white"
                     : props.mode === "danger"
                     ? "#61ecf1"
                     : props.mode === "warning"
@@ -91,7 +93,8 @@ export default function About(props) {
                     : props.mode === "primary"
                     ? "#042743"
                     : "white",
-                    color:  props.mode === "dark"
+                color:
+                  props.mode === "dark"
                     ? "#dbe8e5"
                     : props.mode === "info"
                     ? "white"
@@ -104,8 +107,17 @@ export default function About(props) {
                     : "black",
               }}
             >
-              <strong>My Name is Niketan Wadaskar.</strong> This project is created by me with the help of 'code with harry' YouTubian, so in this project, the colored palate you see in the corner is actually different <strong>themes</strong>  which are given to the project, we can add text and make several changes like managing spaces copying text capitalizing the first letter converting text to lower case or to the upper case this site will also give the info about how many characters are there and as will tell you estimated time to read the given text, this site will also show you the preview of your written text. <code></code>,
-              though the transition does limit overflow.
+              <strong>My Name is Niketan Wadaskar.</strong> This project is
+              created by me for resume, so in this project, the colored palate
+              you see in the corner is actually different{" "}
+              <strong>themes</strong> which are given to the project, we can add
+              text and make several changes like managing spaces copying text
+              capitalizing the first letter converting text to lower case or to
+              the upper case this site will also give the info about how many
+              characters are there and as will tell you estimated time to read
+              the given text, this site will also show you the preview of your
+              written text. <code></code>, though the transition does limit
+              overflow.
             </div>
           </div>
         </div>
@@ -131,10 +143,11 @@ export default function About(props) {
                     : props.mode === "primary"
                     ? "#042743"
                     : "white",
-                    color:  props.mode === "dark"
+                color:
+                  props.mode === "dark"
                     ? "#dbe8e5"
                     : props.mode === "info"
-                    ?"white"
+                    ? "white"
                     : props.mode === "danger"
                     ? "#61ecf1"
                     : props.mode === "warning"
@@ -168,7 +181,8 @@ export default function About(props) {
                     : props.mode === "primary"
                     ? "#042743"
                     : "white",
-                    color:  props.mode === "dark"
+                color:
+                  props.mode === "dark"
                     ? "#dbe8e5"
                     : props.mode === "info"
                     ? "white"
@@ -181,14 +195,17 @@ export default function About(props) {
                     : "black",
               }}
             >
-              <strong>Why dont you listen told you n , nothing in here.</strong> It is
-              hidden by default, until the collapse plugin adds the appropriate
-              classNamees that we use to style each element. These classNamees
-              control the overall appearance, as well as the showing and hiding
-              via CSS transitions. You can modify any of this with custom CSS or
-              overriding our default variables. It's also worth noting that just
-              about any HTML can go within the <code>.accordion-body</code>,
-              though the transition does limit overflow.
+              <strong>
+                Why don't you listen told you n , nothing in here.
+              </strong>{" "}
+              It is hidden by default, until the collapse plugin adds the
+              appropriate classNames that we use to style each element. These
+              classNames control the overall appearance, as well as the showing
+              and hiding via CSS transitions. You can modify any of this with
+              custom CSS or overriding our default variables. It's also worth
+              noting that just about any HTML can go within the{" "}
+              <code>.accordion-body</code>, though the transition does limit
+              overflow.
             </div>
           </div>
         </div>
@@ -214,7 +231,8 @@ export default function About(props) {
                     : props.mode === "primary"
                     ? "#042743"
                     : "white",
-                    color:  props.mode === "dark"
+                color:
+                  props.mode === "dark"
                     ? "#dbe8e5"
                     : props.mode === "info"
                     ? "white"
@@ -251,7 +269,8 @@ export default function About(props) {
                     : props.mode === "primary"
                     ? "#042743"
                     : "white",
-                color:  props.mode === "dark"
+                color:
+                  props.mode === "dark"
                     ? "#dbe8e5"
                     : props.mode === "info"
                     ? "white"
@@ -264,14 +283,17 @@ export default function About(props) {
                     : "black",
               }}
             >
-              <strong>Again 🤦‍♂️ Why dont you listen told you n , nothing in here.</strong> It is
-              hidden by default, until the collapse plugin adds the appropriate
-              classNamees that we use to style each element. These classNamees
-              control the overall appearance, as well as the showing and hiding
-              via CSS transitions. You can modify any of this with custom CSS or
-              overriding our default variables. It's also worth noting that just
-              about any HTML can go within the <code>.accordion-body</code>,
-              though the transition does limit overflow.
+              <strong>
+                Again 🤦‍♂️ Why dont you listen told you n , nothing in here.
+              </strong>{" "}
+              It is hidden by default, until the collapse plugin adds the
+              appropriate classNamees that we use to style each element. These
+              classNamees control the overall appearance, as well as the showing
+              and hiding via CSS transitions. You can modify any of this with
+              custom CSS or overriding our default variables. It's also worth
+              noting that just about any HTML can go within the{" "}
+              <code>.accordion-body</code>, though the transition does limit
+              overflow.
             </div>
           </div>
         </div>
