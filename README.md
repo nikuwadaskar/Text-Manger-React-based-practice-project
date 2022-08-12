@@ -7,7 +7,7 @@ also show you the preview of your written text.
 
 # Deployment 
 
-`<link>`:[Text utils] (https://textutilsproject.netlify.app/)
+`<link>`:[Text utils] (https://text-manager-app.netlify.app/)
 
 # Screenshots
 ![UI](/src/components/Screenshot%202022-08-02%20093037.jpg)
