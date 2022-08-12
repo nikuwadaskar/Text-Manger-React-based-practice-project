@@ -1,6 +1,6 @@
 # TextUtils-React-Based-Practice-Project
 
-This project is created by me with the help of 'code with harry' YouTubian, so in this project, the colored palate you see in the corner is actually different themes 
+This project is created by me , so in this project, the colored palate you see in the corner is actually different themes 
 which are given to the project, we can add text and make several changes like managing spaces copying text capitalizing the first letter converting text to lower case 
 or to the upper case this site will also give the info about how many characters are there and as will tell you estimated time to read the given text, this site will 
 also show you the preview of your written text.
